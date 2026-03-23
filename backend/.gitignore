@@ -1,0 +1,53 @@
+# ─── DEPENDENCIES ─────────────────────────────────────
+node_modules/
+
+# ─── ENVIRONMENT VARIABLES ────────────────────────────
+# Never commit secrets!
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# ─── LOGS ─────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ─── OS FILES ─────────────────────────────────────────
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# ─── EDITOR FILES ─────────────────────────────────────
+# VSCode
+.vscode/
+!.vscode/extensions.json
+
+# IntelliJ / WebStorm
+.idea/
+*.iml
+
+# ─── BUILD OUTPUT ─────────────────────────────────────
+dist/
+build/
+
+# ─── TESTING ──────────────────────────────────────────
+coverage/
+
+# ─── MISC ─────────────────────────────────────────────
+*.pem
+.npm
