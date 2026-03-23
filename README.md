@@ -5,13 +5,6 @@ A secure, full-stack voting platform built for the modern web. Voters register u
 > Built with Node.js · Express.js · MongoDB · React.js
 
 ---
-
-## 📸 Preview
-
-> _Add screenshots or a screen recording GIF of your app here_
-
----
-
 ## ✨ Features
 
 **Voter**
