@@ -222,9 +222,3 @@ All required environment variables are documented in `backend/.env.example`. No 
 ## 📝 License
 
 Licensed under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Paresh** — CSE Graduate · Full Stack Developer
